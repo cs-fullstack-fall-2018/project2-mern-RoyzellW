@@ -1,0 +1,27 @@
+{
+  "name": "project2-mern-royzellw",
+  "version": "1.0.0",
+  "description": "Create a live journal. Allow users to create journal entres and view them later.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-fall-2018/project2-mern-RoyzellW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-fall-2018/project2-mern-RoyzellW/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-fall-2018/project2-mern-RoyzellW#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "config": "^2.0.1",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.2.17",
+    "nodemon": "^1.18.4"
+  }
+}
